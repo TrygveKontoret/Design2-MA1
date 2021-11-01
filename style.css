@@ -174,12 +174,12 @@ footer {
 }
 
 .row img {
-    max-width: 50px;
+    width: 40px;
     padding-top: 10px;
 }
 
 .row {
     display: flex;
     justify-content: space-between;
-    max-width: 70%;
+    width: 70%;
 }
