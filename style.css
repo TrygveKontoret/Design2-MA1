@@ -157,7 +157,7 @@ footer {
 }
 
 .contentboxProd {
-    width: 40%;
+    width: 28%;
     margin: 20px;
     border-radius: 2px;
     display: flex;
@@ -173,12 +173,12 @@ footer {
 }
 
 .row img {
-    width: 50px;
+    max-width: 50px;
     padding-top: 10px;
 }
 
 .row {
     display: flex;
     justify-content: space-between;
-    width: 70%;
+    max-width: 70%;
 }
