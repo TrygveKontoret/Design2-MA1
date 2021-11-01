@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="99" viewBox="0 0 99 99">
+  <g id="Group_2" data-name="Group 2" transform="translate(-860 -474)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="49.5" cy="49.5" r="49.5" transform="translate(860 474)" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(89.452 -16.876)">
+      <path id="Icon_awesome-shopping-cart" data-name="Icon awesome-shopping-cart" d="M60.6,34.576l5.425-23.868a2.754,2.754,0,0,0-2.685-3.364H18.269L17.217,2.2a2.754,2.754,0,0,0-2.7-2.2H2.754A2.754,2.754,0,0,0,0,2.754V4.59A2.754,2.754,0,0,0,2.754,7.344h8.019l8.061,39.409a6.427,6.427,0,1,0,7.693.983H50.584a6.424,6.424,0,1,0,7.3-1.194l.633-2.786a2.754,2.754,0,0,0-2.685-3.364h-30.8l-.751-3.672H57.916A2.754,2.754,0,0,0,60.6,34.576Z" transform="translate(787 511)"/>
+      <path id="Icon_ionic-ios-heart" data-name="Icon ionic-ios-heart" d="M19.361,3.938h-.053a5.983,5.983,0,0,0-5,2.734,5.983,5.983,0,0,0-5-2.734H9.265A5.945,5.945,0,0,0,3.375,9.88a12.8,12.8,0,0,0,2.514,6.978,44.049,44.049,0,0,0,8.424,8.114,44.049,44.049,0,0,0,8.424-8.114A12.8,12.8,0,0,0,25.251,9.88,5.945,5.945,0,0,0,19.361,3.938Z" transform="translate(811.982 518.668)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
