@@ -1,15 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display:wght@500&family=Poppins&display=swap');
+/* font-family: 'Lato', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif; */
 
 * {
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
 }
 
 a {
     text-decoration: none;
     color: white;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+li {
+    font-family: 'Playfair Display', serif;
 }
 
 h3 {
@@ -37,6 +53,10 @@ header {
     align-items: center;
     flex-direction: column;
     width: 200px;
+}
+
+.logo p {
+    font-family: 'Playfair Display', serif;
 }
 
 .logo img {
