@@ -18,10 +18,12 @@ a {
 h1 {
     font-family: 'Playfair Display', serif;
     font-weight: bolder;
+    /* color: black; */
 }
 
 h2 {
     font-family: 'Lato', sans-serif;
+    /* color: black; */
 }
 
 li {
